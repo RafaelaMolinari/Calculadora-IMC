@@ -1,1 +1,2 @@
 # Calculadora-IMC
+Calculadora de IMC: Implementação de uma ferramenta para calcular o Índice de Massa Corporal (IMC) a partir do peso e altura do usuário. O projeto fornece uma interface simples e intuitiva para a inserção de dados e exibe o resultado de forma clara, com a interpretação do valor calculado, como abaixo do peso, peso normal, sobrepeso, obesidade, etc. Ideal para ser integrado em plataformas de saúde e bem-estar, permitindo aos usuários acompanhar sua saúde corporal e tomar decisões informadas sobre alimentação e exercício físico.
